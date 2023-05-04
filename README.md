@@ -1,6 +1,7 @@
 # Careeration-Web-app
 
 **Introduction**:
+
 Managing numerous applications, interviews, and deadlines can be overwhelming. The job market is competitive, and it's crucial to stand out from the crowd.
 
 Careeration is an all-in-one platform is designed for students, recent graduates, and job seekers who want to stay organized and receive personalized notifications throughout their job search journey.
@@ -9,6 +10,7 @@ Careeration offers a significant advantage over traditional methods, such as usi
 
 
 **Members & Roles**:
+
 Mohammed Alsaad(Frontend), Neil Prabhu(Backend), Ze Xian Choo(Frontend), Jay Zhang(Backend)
 
 **Technical Architecture**:
