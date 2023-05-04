@@ -15,4 +15,4 @@ Mohammed Alsaad(Frontend), Neil Prabhu(Backend), Ze Xian Choo(Frontend), Jay Zha
 
 ## **Technical Architecture**:
 
-## **Installation INstructions**:
+## **Installation Instructions**:
