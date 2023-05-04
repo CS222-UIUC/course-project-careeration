@@ -11,7 +11,7 @@ Careeration offers a significant advantage over traditional methods, such as usi
 
 ## **Members & Roles**:
 
-Mohammed Alsaad(Frontend), Neil Prabhu(Backend), Ze Xian Choo(Frontend), Jay Zhang(Backend)
+Mohammed Alsaad(Backend), Ze Xian Choo(Backend), Neil Prabhu(Frontend), Jay Zhang(Frontend)
 
 ## **Technical Architecture**:
 
