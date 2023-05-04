@@ -11,8 +11,12 @@ Careeration offers a significant advantage over traditional methods, such as usi
 
 ## **Members & Roles**:
 
-Mohammed Alsaad(Backend), Ze Xian Choo(Backend), Neil Prabhu(Frontend), Jay Zhang(Frontend)
+Ze Xian Choo: Frontend, built Homepage and application cards. \
+Mohammed Alsaad: Frontend, designed Sign-in/Login-in pages and application cards. \
+Neil Prabhu: Backend, connected Sign-in/Login-in information with database. \
+Jay Zhang: Backend, handled database and JavaScript side of application cards.
 
 ## **Technical Architecture**:
+<img src="https://user-images.githubusercontent.com/112682232/236349870-b9f47cd4-533c-4d0a-a1a2-c504a3af951c.png" width="500" height="500">
 
 ## **Installation Instructions**:
