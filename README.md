@@ -1,6 +1,6 @@
 # Careeration-Web-app
 
-# **Introduction**:
+## **Introduction**:
 
 Managing numerous applications, interviews, and deadlines can be overwhelming. The job market is competitive, and it's crucial to stand out from the crowd.
 
