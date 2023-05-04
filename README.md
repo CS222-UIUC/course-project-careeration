@@ -14,3 +14,5 @@ Careeration offers a significant advantage over traditional methods, such as usi
 Mohammed Alsaad(Frontend), Neil Prabhu(Backend), Ze Xian Choo(Frontend), Jay Zhang(Backend)
 
 ## **Technical Architecture**:
+
+## **Installation INstructions**:
