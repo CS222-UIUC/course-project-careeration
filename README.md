@@ -20,3 +20,14 @@ Jay Zhang: Backend, handled database and JavaScript side of application cards.
 <img src="https://user-images.githubusercontent.com/112682232/236349870-b9f47cd4-533c-4d0a-a1a2-c504a3af951c.png" width="500" height="500">
 
 ## **Installation Instructions**:
+## Pre-Requisite
+1. download Node.js
+## Installing the Web App
+1. Install & run the Backend first
+2. Clone/download the directory to your local machine
+3. Using the command line, go to the backend directory: `cd YOURPATH\frontend`
+4. Install the required dependencies by typing the following in the command line: `npm install`
+5. Start the program by typing the following in the command line: `npm start`
+## Running the Web App
+1. Using the command line, go to the backend directory: `cd YOURPATH\frontend`
+2. Start the program by typing the following in the command line: `npm start`
